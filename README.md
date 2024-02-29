@@ -14,6 +14,8 @@
     </header>
     <main>
         <p>This is my test website and I am so freaking proud that I am able to even accomplish this.</p>
+        git add smiley.txt
+git commit -m "Add smiley face"
     </main>
     <footer>
         <p>&copy; 2024 Your Website</p>
