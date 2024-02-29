@@ -13,8 +13,11 @@
         <h1>Whow knows what will end up here</h1>
     </header>
     <main>
+        git clone https://github.com/<elleon1>/<elleon1.github.io>.git
         <p>This is my test website and I am so freaking proud that I am able to even accomplish this.</p>
         git add smiley.txt
+            smiley.txt=:-)
+
 git commit -m "Add smiley face"
     </main>
     <footer>
